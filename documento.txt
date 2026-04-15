@@ -1,0 +1,3 @@
+Práctica 2 de Git y GitHub
+Nombre: Esteban Lopez Rojas
+Curso: SOFT-09
